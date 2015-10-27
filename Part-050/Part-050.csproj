@@ -51,11 +51,11 @@
       <Project>{D2B3ED03-00DA-4475-A74D-5A80E132D8DA}</Project>
       <Name>Part-001-IntroductionToCSharp</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Part-50-AssemblyOne\Part-050-AssemblyOne.csproj">
+    <ProjectReference Include="..\Part-050-AssemblyOne\Part-050-AssemblyOne.csproj">
       <Project>{19EB3BEA-09FF-4F93-B4A4-B916F1D765C6}</Project>
       <Name>Part-050-AssemblyOne</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Part-50-AssemblyTwo\Part-050-AssemblyTwo.csproj">
+    <ProjectReference Include="..\Part-050-AssemblyTwo\Part-050-AssemblyTwo.csproj">
       <Project>{9E541CFE-D5A1-4588-8C4C-FA06D5E3CD69}</Project>
       <Name>Part-050-AssemblyTwo</Name>
     </ProjectReference>
